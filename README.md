@@ -21,7 +21,7 @@ $ pip install numpy
 ````
 Essentia will be installed directly running the notebook.
 
-### Clone or Download the repository 
+## Clone or Download the repository 
 
 Clone or download the repository. 
 It contains a Google Colab notebook, please read the Notebook instruction to properly change directories paths and run the notebook correctly.
@@ -33,6 +33,14 @@ $ git clone https://github.com/RonFrancesca/Analysis_Essentia_models-MTG_Jamendo
 
 The full dataset can be downlaoded at the following links:
 - download the full dataset score here: https://github.com/MTG/mtg-jamendo-dataset 
+
+## MTG jamendo annotator 
+
+More information about MTG jamendo annotator, how to configure it and run it can be found at the following link: https://github.com/MTG/mtg-jamendo-annotator
+
+## MTG jamendo dataset 
+
+More information about the MTG jamendo dataset can be found at the following link: https://github.com/MTG/mtg-jamendo-dataset
 
 
 ## Author 
