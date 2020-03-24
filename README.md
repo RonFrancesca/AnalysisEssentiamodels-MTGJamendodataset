@@ -31,7 +31,7 @@ Command to copy the repository:
 $ git clone https://github.com/RonFrancesca/Analysis_Essentia_models-MTG_Jamendo-dataset.git
 ```
 
-The dataset can be downlaoded at the following links:
+The full dataset can be downlaoded at the following links:
 - download the full dataset score here: https://github.com/MTG/mtg-jamendo-dataset 
 
 
