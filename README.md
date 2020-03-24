@@ -28,7 +28,7 @@ It contains a jupyter notebook, please read Jupyter Notebook instruction to prop
 
 Command to copy the repository:
 ```
-$ git clone https://github.com/RonFrancesca/makam_research.git
+$ git clone https://github.com/RonFrancesca/Analysis_Essentia_models-MTG_Jamendo-dataset.git
 ```
 
 The dataset can be downlaoded at the following links:
