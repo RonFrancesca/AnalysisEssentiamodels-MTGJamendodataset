@@ -36,7 +36,7 @@ The full dataset can be downlaoded at the following links:
 
 ## MTG jamendo annotator 
 
-More information about MTG jamendo annotator, how to configure it and run it can be found at the following link: https://github.com/MTG/mtg-jamendo-annotator
+More information about MTG jamendo annotator, how to configure it and run it can be found at the following link: https://github.com/MTG/mtg-jamendo-annotator. 
 
 ## MTG jamendo dataset 
 
