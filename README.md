@@ -4,6 +4,8 @@
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RonFrancesca/Analysis_Essentia_models-MTG_Jamendo-dataset.ipynb)
+
 ### Prerequisites
 
 In order to run the notebook correctly the user has to install python and the following modules: numpy, essentia. 
