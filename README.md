@@ -40,7 +40,7 @@ More information about MTG jamendo annotator, how to configure it and run it can
 
 More informatio about the MTG jamendo dataset and the dataset can be found at the following links: https://github.com/MTG/mtg-jamendo-dataset 
 
-## Tenworflow model for Essentia. 
+## Tenworflow models for Essentia. 
 
 The models used for this work can be downlaoded at the following link: https://mtg.github.io/essentia-labs/news/2020/01/16/tensorflow-models-released/. 
 For this work, two task have been considered (mood and miscellanous). 
