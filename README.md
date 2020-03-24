@@ -19,6 +19,7 @@ Command to clone the repository:
 ```
 $ git clone https://github.com/RonFrancesca/Analysis_Essentia_models-MTG_Jamendo-dataset.git
 ```
+Once the notebook is installed, open it from google colab and follow the instruction to configure it correctly. 
 
 The notebook can also be directly be opened from Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RonFrancesca/Analysis_Essentia_models-MTG_Jamendo-dataset/blob/master/LargeScale_Dataset_Classification.ipynb)
 
