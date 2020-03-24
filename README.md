@@ -21,12 +21,12 @@ $ pip install numpy
 ````
 Essentia will be installed directly running the notebook.
 
-### Copy or Download the repository 
+### Clone or Download the repository 
 
-Copy or download the repository. 
+Clone or download the repository. 
 It contains a Google Colab notebook, please read the Notebook instruction to properly change directories paths and run the notebook correctly.
 
-Command to copy the repository:
+Command to clone the repository:
 ```
 $ git clone https://github.com/RonFrancesca/Analysis_Essentia_models-MTG_Jamendo-dataset.git
 ```
