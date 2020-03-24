@@ -6,9 +6,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-In order to run the notebook correctly the user has to install python and the following modules: numpy, essentia. 
-All the module will be directly imported runnign the notebook
+In order to run the notebook the following modules are necessary: numpy, essentia. 
+All the module will be directly imported running the notebook
 Essentia will be installed directly running the notebook.
+
+### Open the notebok in Google Colab
+
+The notebook can be directly open from Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RonFrancesca/Analysis_Essentia_models-MTG_Jamendo-dataset/blob/master/LargeScale_Dataset_Classification.ipynb)
 
 ## Clone or Download the repository 
 
@@ -20,8 +24,6 @@ Command to clone the repository:
 $ git clone https://github.com/RonFrancesca/Analysis_Essentia_models-MTG_Jamendo-dataset.git
 ```
 Once the notebook is installed, open it from google colab and follow the instruction to configure it correctly. 
-
-The notebook can also be directly be opened from Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RonFrancesca/Analysis_Essentia_models-MTG_Jamendo-dataset/blob/master/LargeScale_Dataset_Classification.ipynb)
 
 
 ## MTG jamendo annotator 
