@@ -4,8 +4,6 @@
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RonFrancesca/Analysis_Essentia_models-MTG_Jamendo-dataset.ipynb)
-
 ### Prerequisites
 
 In order to run the notebook correctly the user has to install python and the following modules: numpy, essentia. 
@@ -22,8 +20,8 @@ Command to clone the repository:
 $ git clone https://github.com/RonFrancesca/Analysis_Essentia_models-MTG_Jamendo-dataset.git
 ```
 
-The full dataset can be downlaoded at the following links:
-- download the full dataset score here: https://github.com/MTG/mtg-jamendo-dataset 
+The notebook can also be directly be opened from Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RonFrancesca/Analysis_Essentia_models-MTG_Jamendo-dataset/blob/master/LargeScale_Dataset_Classification.ipynb)
+
 
 ## MTG jamendo annotator 
 
@@ -31,7 +29,7 @@ More information about MTG jamendo annotator, how to configure it and run it can
 
 ## MTG jamendo dataset 
 
-More information about the MTG jamendo dataset can be found at the following link: https://github.com/MTG/mtg-jamendo-dataset
+More informatio about the MTG jamendo dataset and the dataset can be found at the following links: https://github.com/MTG/mtg-jamendo-dataset 
 
 
 ## Author 
