@@ -43,7 +43,7 @@ More informatio about the MTG jamendo dataset and the dataset can be found at th
 ## Tenworflow models for Essentia. 
 
 The models used for this work can be downlaoded at the following link: https://mtg.github.io/essentia-labs/news/2020/01/16/tensorflow-models-released/. 
-For this work, two task have been considered (mood and miscellanous). 
+For this work, two tasks have been considered (mood and miscellanous). 
 The following models have been considered: 
 - Mood task: MusiCNN_MSD and VGGish_AudioSet
 - Miscellanous task: MusiCNN_MSD and VGGish_AudioSet
