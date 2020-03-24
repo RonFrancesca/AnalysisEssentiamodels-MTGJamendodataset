@@ -10,13 +10,13 @@ In order to run the notebook the following modules are necessary: numpy, essenti
 All the module will be directly imported running the notebook
 Essentia will be installed directly running the notebook.
 
-### Open the notebok in Google Colab
+## Open the notebok in Google Colab
 
 The notebook can be directly open from Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RonFrancesca/Analysis_Essentia_models-MTG_Jamendo-dataset/blob/master/LargeScale_Dataset_Classification.ipynb)
 
 ## Clone or Download the repository 
 
-Clone or download the repository. 
+If the user wants a local copy of the notebook, clone or download the reposiotry.
 It contains a Google Colab notebook, please read the Notebook instruction to properly change directories paths and run the notebook correctly.
 
 Command to clone the repository:
