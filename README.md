@@ -19,6 +19,7 @@ In OSX the user can install these modules by typing in the Terminal:
 $ brew install python
 $ pip install numpy 
 ````
+Essentia will be installed directly running the notebook.
 
 ### Copy or Download the repository 
 
@@ -31,30 +32,10 @@ $ git clone https://github.com/RonFrancesca/makam_research.git
 ```
 
 The dataset can be downlaoded at the following links:
-- download the full pdf score dataset here: https://github.com/MTG/SymbTr-pdf 
-- download the full xml files dataset here: https://github.com/MTG/SymbTr/releases/tag/v2.4.3
+- download the full dataset score here: https://github.com/MTG/mtg-jamendo-dataset 
 
 
-### Jupyter Notebook instructions
-Install Jupyter Notebook according to the its instructions https://jupyter.org/install
-
-Start up jupyter notebook
-
-```
-$ jupyter notebook
-```
-
-Follow instructions appearing in the console regarding navigating your browser to the notebook
-
-### MuseScore 
-
-The user will also need a score editor to follow the examples. 
-MuseScore (suggested) could be download at the following link: https://musescore.org
-
-# License
-This project is licensed under a Creative Commons Attribution 4.0 International License (CC BY4.0). Attribution:Dougal Shakespeare, Francesca Ronchini.  “Exploring Further Relations of Metrical Strength and Pitch Relations in Turkish Makam music”. 
-
-## Authors 
+## Author 
 - Francesca Ronchini
-- Dougal Shakespeare
+
 
