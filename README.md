@@ -43,7 +43,7 @@ More information about the MTG jamendo dataset can be found in the following pap
 
 The dataset can be found at the following links: https://github.com/MTG/mtg-jamendo-dataset
 
-## Tenworflow models for Essentia. 
+## Tenworflow models for Essentia 
 
 The models used for this work can be downlaoded at the following link: https://mtg.github.io/essentia-labs/news/2020/01/16/tensorflow-models-released/. 
 For this work, two tasks have been examinated (mood and miscellanous). 
