@@ -24,7 +24,7 @@ Essentia will be installed directly running the notebook.
 ### Copy or Download the repository 
 
 Copy or download the repository. 
-It contains a jupyter notebook, please read Jupyter Notebook instruction to properly change directories paths and run the notebook correctly.
+It contains a Google Colab notebook, please read the Notebook instruction to properly change directories paths and run the notebook correctly.
 
 Command to copy the repository:
 ```
