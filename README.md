@@ -6,19 +6,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-In order to run the notebook correctly the user has to install python and the following modules: numpy, essentia 
-
-In Ubuntu the user can install all these modules it is as simple as typing in the Terminal:
-```
-$ sudo apt-get install python-dev python-numpy 
-```
-
-In OSX the user can install these modules by typing in the Terminal:
-
-```
-$ brew install python
-$ pip install numpy 
-````
+In order to run the notebook correctly the user has to install python and the following modules: numpy, essentia. 
+All the module will be directly imported runnign the notebook
 Essentia will be installed directly running the notebook.
 
 ## Clone or Download the repository 
