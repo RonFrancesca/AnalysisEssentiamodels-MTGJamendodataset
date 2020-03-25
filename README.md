@@ -6,7 +6,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-The following modules are necessary to run the notebook: numpy, essentia, json, sklearn, matplotlib.
+The following modules are necessary to run the notebook: numpy, essentia-tensorflow, json, sklearn, matplotlib and seaborn.
 
 All the modules will be directly imported running the notebook.
 
