@@ -51,7 +51,7 @@ The following models have been considered:
 - Mood task: MusiCNN_MSD and VGGish_AudioSet
 - Miscellanous task: MusiCNN_MSD and VGGish_AudioSet
 
-Downlaod them and save the inside a folder in Google Drive which will be mounted from the notebook in Google Colab
+Downlaod and save them the inside a folder in Google Drive which will be mounted from the notebook in Google Colab
 
 
 ## Author 
