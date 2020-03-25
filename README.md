@@ -18,7 +18,7 @@ The notebook can be directly open from Google Colab: [![Open In Colab](https://c
 
 Read the Notebook instructions to properly change directories paths and run the notebook correctly.
 
-All the data used in this work have been stored in Goodle Drive, so it can be mount directly from the notebook. 
+All the data used in this work have been stored in Goodle Drive, so they can be mount directly from the notebook. 
 
 ## Clone or Download the repository 
 
