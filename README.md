@@ -37,11 +37,11 @@ More information about MTG jamendo annotator, how to configure it and run it can
 
 ## MTG jamendo dataset 
 
+The dataset can be found at the following links: https://github.com/MTG/mtg-jamendo-dataset
+
 More information about the MTG jamendo dataset can be found in the following paper. 
 
 > Bogdanov, D., Won M., Tovstogan P., Porter A., & Serra X. (2019).  [The MTG-Jamendo Dataset for Automatic Music Tagging](http://mtg.upf.edu/node/3957). Machine Learning for Music Discovery Workshop, International Conference on Machine Learning (ICML 2019).
-
-The dataset can be found at the following links: https://github.com/MTG/mtg-jamendo-dataset
 
 ## Tenworflow models for Essentia 
 
