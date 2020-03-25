@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 The following modules are necessary to run the notebook: numpy, essentia, json, sklearn, matplotlib.
 
-All the module will be directly imported running the notebook.
+All the modules will be directly imported running the notebook.
 
 Essentia will be installed directly running the notebook.
 
