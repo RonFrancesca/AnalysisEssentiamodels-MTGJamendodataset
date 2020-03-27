@@ -14,7 +14,7 @@ Essentia will be installed directly running the notebook.
 
 ## Open the notebok in Google Colab
 
-The notebook can be directly open from Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RonFrancesca/Analysis_Essentia_models-MTG_Jamendo-dataset/blob/master/LargeScale-Dataset-Classification.ipynb)
+The notebook can be directly open from Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RonFrancesca/Analysis_Essentia_models-MTG_Jamendo-dataset/blob/master/LargeScale-Dataset-ClassificationRonchini.ipynb)
 
 Read the Notebook instructions to properly change directories paths and run the notebook correctly.
 
