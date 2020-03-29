@@ -27,7 +27,7 @@ It contains a Google Colab notebook, please read the Notebook instruction to pro
 
 Command to clone the repository:
 ```
-$ git clone https://github.com/RonFrancesca/Analysis_Essentia_models-MTG_Jamendo-dataset.git
+$ git clone https://github.com/RonFrancesca/AnalysisEssentiamodels-MTGJamendodataset.git
 ```
 Once the notebook is installed, open it from google colab and follow the instruction to configure it correctly. 
 
