@@ -2,7 +2,9 @@
 
 This work aims to further explore the task of Audio Onsset Detection with deep learning, presenting a novel Convolutional  Recurrent  Neural  Network  model  for  musical onset  detection.  In  particular,  the  proposed  architecturehas been trained with different hyper-parameter tuning and CNN kernel filters size in order to find the best combination of parameters in terms of performances. 
 
-Two different dataset have been used for the scope of the project, Leveaudataset [1] and the merge of it with Holzapfel dataset [2].The model has been been trained with two different input, spectrogram  and log-normalized Mel Band spectrogram. 
+Two different dataset have been used for the scope of the project, Leveau dataset [1] and the merge of it with Holzapfel dataset [2].The model has been been trained with two different input, spectrogram  and log-normalized Mel Band spectrogram. 
+
+[1]: https://perso.telecom-paristech.fr/grichard/ENST-drums/
 
 
 
