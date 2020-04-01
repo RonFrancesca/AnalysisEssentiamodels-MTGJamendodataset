@@ -6,9 +6,8 @@ Two different dataset have been used for the scope of the project, Leveau datase
 
 [1]: https://perso.telecom-paristech.fr/grichard/ENST-drums/
 
-
-
-
+[2]
+> André Holzapfel, Yannis Stylianou, Ali C Gedik, andBarı ̧s Bozkurt. Three dimensions of pitched instrumentonset detection.IEEE Transactions on Audio, Speech,and Language Processing, 18(6):1517–1527, 200
 
 ## Getting Started
 
