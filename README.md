@@ -1,6 +1,8 @@
 # Analysis of Essentia models on the MTG Jamendo dataset
 
-This work aims to analyse and evaluate transfer learning using Tensorflow models for Essentia [1], concentrating the research on two already pretrained models: MusicCNN and VGG-like (VGGish). This study is based on Mood and Miscellaneous source task on a particular chunk (9th) of MTG-jamendo dataset [2], with the goal of evaluating how well each model performs when transfer learning is applied, comparing the results with manually annotated ground truth.
+This work aims to analyse and evaluate transfer learning using Tensorflow models for Essentia [1], concentrating the research on two already pretrained models: MusicCNN and VGG-like (VGGish). 
+
+This study is based on *Mood* and *Miscellaneous* source task on a particular chunk (9th) of MTG-jamendo dataset [2], with the goal of evaluating how well each model performs when transfer learning is applied, comparing the results with manually annotated ground truth.
 
 [1]: https://mtg.github.io/essentia-labs/news/2020/01/16/tensorflow-models-released/.
 [2]: https://github.com/MTG/mtg-jamendo-dataset
