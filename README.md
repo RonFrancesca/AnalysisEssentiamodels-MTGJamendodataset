@@ -1,13 +1,8 @@
 # Analysis of Essentia models on the MTG Jamendo dataset
 
-This work aims to further explore the task of Audio Onsset Detection with deep learning, presenting a novel Convolutional  Recurrent  Neural  Network  model  for  musical onset  detection.  In  particular,  the  proposed  architecturehas been trained with different hyper-parameter tuning and CNN kernel filters size in order to find the best combination of parameters in terms of performances. 
+This work aims to analyse and evaluate transfer learning using Tensorflow models for Essentia [1], concentrating the research on two already pretrained mod- els: MusicCNN and VGG-like (VGGish). 
 
-Two different dataset have been used for the scope of the project, Leveau dataset [1] and the merge of it with Holzapfel dataset [2].The model has been been trained with two different input, spectrogram  and log-normalized Mel Band spectrogram. 
-
-[1]: https://perso.telecom-paristech.fr/grichard/ENST-drums/
-
-[2]
-> André Holzapfel, Yannis Stylianou, Ali C Gedik, andBarı ̧s Bozkurt. Three dimensions of pitched instrumentonset detection.IEEE Transactions on Audio, Speech,and Language Processing, 18(6):1517–1527, 200
+[1]: https://mtg.github.io/essentia-labs/news/2020/01/16/tensorflow-models-released/. 
 
 ## Getting Started
 
